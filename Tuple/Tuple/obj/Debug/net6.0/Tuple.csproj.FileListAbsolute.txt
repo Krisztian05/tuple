@@ -1,0 +1,15 @@
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\bin\Debug\net6.0\Tuple.exe
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\bin\Debug\net6.0\Tuple.deps.json
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\bin\Debug\net6.0\Tuple.dll
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\bin\Debug\net6.0\Tuple.pdb
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\obj\Debug\net6.0\Tuple.csproj.AssemblyReference.cache
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\obj\Debug\net6.0\Tuple.dll
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\obj\Debug\net6.0\refint\Tuple.dll
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\obj\Debug\net6.0\Tuple.pdb
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache
+C:\Users\horvath.krisztian2\Desktop\Tuple\Tuple\obj\Debug\net6.0\ref\Tuple.dll
